@@ -91,3 +91,8 @@ Examples of APIs: OpenWeatherMap and Open-Meteo
 - Uses test data and environments
 - Focuses on finding defects
 - Typically runs in test environments
+
+## RPA and Test Automation: Technical Aspects
+<p align="center">
+  <img src="1.png" alt="Final Output" width="300"/>
+</p>
