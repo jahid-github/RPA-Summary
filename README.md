@@ -98,6 +98,21 @@ def fill_and_submit_music_form(entry):
     
     page.click("button:text('Add to Collection')")
 
+# Or
+def submit_expense_entry(browser_instance, expense):
+    
+    page = browser_instance.page()
+    
+    page.fill("#description", expense["Item"])
+    
+    page.fill("#amount", str(expense["Cost"])) 
+    
+    page.fill("#date", expense["TransactionDate"])  
+    
+    page.select_option("#category", expense["Category"])
+    
+    page.click("text= Add Expense")
+
 ## Capturing a Screenshot
 
 def capture_collection_screenshot():
