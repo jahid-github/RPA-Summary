@@ -153,7 +153,9 @@ def close_music_collection_website():
 
 *Traditional Automation*
 - Requires API integration
+
 Examples of APIs: OpenWeatherMap and Open-Meteo
+
 - Often involves changing existing systems
 - Less flexible and better for high-volume, stable processes
 
