@@ -167,7 +167,7 @@ Examples of APIs: OpenWeatherMap and Open-Meteo
 
 *RPA automates business processes end-to-end*
 - Replaces manual repetitive tasks
-- Focuses on production workflo
+- Focuses on production workflow
 - Handles real business data
 
 *Test Automation validates software functionality*
